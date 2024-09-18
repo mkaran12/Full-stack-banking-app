@@ -1,6 +1,8 @@
 ## Mkaran School lms platform
 
 This repository contains a faithful copy and enhancement of the LMS platform.
+**Project inspiration**
+i am inspired to build and run a school in coming few years that will give better and conclusive learning to coming generaton that has been my inspiration.The hardest technicall problem as been getting the next.js vesion that is not crashing.initally at Alx where taught flask , but now there was a problem wher you have to rewrite html code even if you need them somewhere else.SO i had to learn Next.js which as worked perfectively without so many codes.
 
 **Deployment:**
 
